@@ -1,0 +1,4 @@
+{
+  "plugin.name": "Common Languages",
+  "plugin.description": "Syntax highlighting in the file editor for Markdown, YAML, XML, HTML, CSS, Shell, SQL, Dockerfile, TOML, INI, Makefile, Nginx, Protobuf, Rust, C/C++, C#, Swift, PHP, Ruby, Lua, Dart and other common formats"
+}

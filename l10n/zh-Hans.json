@@ -1,0 +1,4 @@
+{
+  "plugin.name": "通用语言着色",
+  "plugin.description": "文件编辑器里 Markdown、YAML、XML、HTML、CSS、Shell、SQL、Dockerfile、TOML、INI、Makefile、Nginx、Protobuf、Rust、C/C++、C#、Swift、PHP、Ruby、Lua、Dart 等常用格式的代码着色"
+}
